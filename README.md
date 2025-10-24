@@ -12,3 +12,11 @@
   <p><img src="https://img.icons8.com/?size=100&id=Nkym0Ujb8VGI&format=png&color=000000" width="50"/></p>
 </div>
 <hr>
+<hr>
+<h2>Тезнологии в процесе обучения</h2>
+<p>Изучаем - практикуем</p>
+<div align="center">
+  <p><img src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000" width="50"/></p>
+  <p><img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" width="40"/></p>
+  <p><img src="https://img.icons8.com/?size=100&id=IaHmaUtKc8bf&format=png&color=000000" width="50"/></p>
+</div>
