@@ -19,7 +19,8 @@
   <p><img src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000" width="50"/></p>
   <p><img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" width="40"/></p>
   <p><img src="https://img.icons8.com/?size=100&id=IaHmaUtKc8bf&format=png&color=000000" width="50"/></p>
-  <p><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/2591b2fd-ad46-4d71-af06-ef85e4b5987c"/>
+  <p><img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/e44fed1e-6077-4319-abf9-836326e0179e" />
+
 </p>
 </div>
 <hr>
