@@ -32,4 +32,3 @@
   <p><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a0168b2a-dda3-4620-a1fe-c67512bb763f"/></p>
 </div>
 <hr>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnatoliiAlenin&show_icons=true)
