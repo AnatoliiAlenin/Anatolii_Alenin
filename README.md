@@ -6,7 +6,7 @@
 <hr>
 <h2>Тезнологии</h2>
 <p>Применяемые на практике и в работе</p>
-<div>
+<div align="center">
   <p><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="50"/></p>
   <p><img src="https://img.icons8.com/?size=100&id=4d9YPiN04osD&format=png&color=000000" width="40"/></p>
   <p><img src="https://img.icons8.com/?size=100&id=Nkym0Ujb8VGI&format=png&color=000000" width="50"/></p>
