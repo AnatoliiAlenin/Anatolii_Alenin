@@ -20,3 +20,12 @@
   <p><img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" width="40"/></p>
   <p><img src="https://img.icons8.com/?size=100&id=IaHmaUtKc8bf&format=png&color=000000" width="50"/></p>
 </div>
+<hr>
+<h2>Инструменты</h2>
+<p>Применяю в работе</p>
+<div align="center">
+  <p><img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" width="50"/></p>
+  <p><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/643ec71d-6563-4af6-a2b1-bc5315721e7c"/>
+</p>
+  <p><img src="https://img.icons8.com/?size=100&id=IaHmaUtKc8bf&format=png&color=000000" width="50"/></p>
+</div>
