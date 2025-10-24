@@ -5,7 +5,7 @@
 </div>
 <hr>
 <ul>
-  <li><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="100"/></li>
+  <li><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="50"/></li>
   <li></li>
   <li></li>
   <li></li>
